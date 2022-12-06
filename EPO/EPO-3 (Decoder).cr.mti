@@ -1,1 +1,10 @@
+{C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\Sarhoz Mahmoud\Documents\GitHub\EPO3\EPO\Counter for fsm.vhd}
+QuestaSim-64 vcom 10.6g Compiler 2019.08 Aug  3 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter
+-- Compiling architecture behaviour of counter
 
+} {} {}}
