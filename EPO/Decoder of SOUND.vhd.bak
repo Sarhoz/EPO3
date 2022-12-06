@@ -1,0 +1,12 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity decoder is
+	port(	reset: 	in std_logic;
+		sig:	in std_logic;
+		count: in std_logic;
+		clk: in std_logic;
+		Reset_count: out std_logic;
+		sync: out std_logic;
+		colour: out std_logic);
+end decoder;
