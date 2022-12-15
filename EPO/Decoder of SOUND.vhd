@@ -19,7 +19,7 @@ architecture behaviour of decoder is
 	signal state, new_state: decoder_state;
 
 begin
-	lbl1: process (clk)
+	lbl3: process (clk)
 	begin
 	if (clk'event and clk = '1') then
 	if reset = '1' then
@@ -30,7 +30,7 @@ begin
 	end if;
 end process;
 
-	lb12: process (state, sig, count_in, clk)
+	lb14: process (state, sig, count_in, clk)
 	begin
 
 	case state is

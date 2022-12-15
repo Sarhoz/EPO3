@@ -51,7 +51,7 @@ when S1 =>
 	colour <=  '0';
 	if (sig = '0' and count_in > "11011011101110011") then -- meer dan 112499 tellen
 	new_state <= S2;
-	elsif (sig = '1' and count_in < "11011011101110100") then -- minder dan 112500 (gelijk aan 4.5 ms) tellen
+	elsif (sig = '0' and count_in < "11011011101110100") then -- minder dan 112500 (gelijk aan 4.5 ms) tellen
 	new_state <= R;
 	else
 	new_state <= S1;
@@ -73,9 +73,9 @@ when S3 =>
 	sync <= '0';
 	colour <=  '0';
 	if (sig = '0' and count_in > "01100001101001111") then -- meer dan 49999 tellen
-	new_state <= W;
-	elsif (sig = '0' and count_in < "01100001101010000") then --minder dan 50 000 (gelijk aan 2 ms) tellen
 	new_state <= Z;
+	elsif (sig = '0' and count_in < "01100001101010000") then --minder dan 50 000 (gelijk aan 2 ms) tellen
+	new_state <= W;
 	else
 	new_state <= S3;
 	end if;

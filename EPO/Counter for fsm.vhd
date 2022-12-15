@@ -36,6 +36,6 @@ begin
 		new_count 	<= count + 1;
 	end process;
 
-	count_out	<= std_logic_vector (count);
+	count_out	<= std_logic_vector(count);
 
 end architecture behaviour;

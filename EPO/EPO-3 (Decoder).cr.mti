@@ -1,4 +1,29 @@
-{C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\Sarhoz Mahmoud\Documents\GitHub\EPO3\EPO\Counter for fsm.vhd}
+{C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd}
+QuestaSim-64 vcom 10.6g Compiler 2019.08 Aug  3 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Decoder_Circuit
+-- Compiling architecture structural of Decoder_circuit
+
+} {} {}} {C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd}
+QuestaSim-64 vcom 10.6g Compiler 2019.08 Aug  3 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder
+-- Compiling architecture behaviour of decoder
+
+} {} {}} {C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd}
+QuestaSim-64 vcom 10.6g Compiler 2019.08 Aug  3 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Decoder_Circuit_tb
+-- Compiling architecture structural of Decoder_Circuit_tb
+
+} {} {}} {C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd}
 QuestaSim-64 vcom 10.6g Compiler 2019.08 Aug  3 2019
 -- Loading package STANDARD
 -- Loading package TEXTIO

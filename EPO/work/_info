@@ -7,84 +7,174 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/Users/Sarhoz Mahmoud/Desktop/VHDL
+Z0 dC:/Users/Sarhoz Mahmoud/Desktop/VHDL
+T_opt
+!s110 1670596080
+V4`:7`SJ;c7V;>U@i>4Y3M1
+04 7 9 work counter behaviour 1
+=1-00d8618931fb-639345ef-302-4f54
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;10.6g;65
+R0
 Ecounter
-Z0 w1670322079
-Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
-Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
-Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
-Z4 dC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO
-Z5 8C:\Users\Sarhoz Mahmoud\Documents\GitHub\EPO3\EPO\Counter for fsm.vhd
-Z6 FC:\Users\Sarhoz Mahmoud\Documents\GitHub\EPO3\EPO\Counter for fsm.vhd
+Z1 w1670598082
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO
+Z6 8C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd
+Z7 FC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd
 l0
 L5
 VDN[d;JSK2j:N:UBWlQ@hK3
 !s100 dKD<@XD0;66=e_CY^1mYh3
-Z7 OL;C;10.6g;65
+Z8 OL;C;10.6g;65
 32
-Z8 !s110 1670325109
+Z9 !s110 1670598611
 !i10b 1
-Z9 !s108 1670325108.000000
-Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:\Users\Sarhoz Mahmoud\Documents\GitHub\EPO3\EPO\Counter for fsm.vhd|
-Z11 !s107 C:\Users\Sarhoz Mahmoud\Documents\GitHub\EPO3\EPO\Counter for fsm.vhd|
+Z10 !s108 1670598611.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd|
+Z12 !s107 C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd|
 !i113 0
-Z12 o-work work -2002 -explicit
-Z13 tExplicit 1 CvgOpt 0
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
 Abehaviour
 DEx4 work 7 counter 0 22 DN[d;JSK2j:N:UBWlQ@hK3
-R1
-R2
-R3
-l19
-L16
-V?jkP6`6N[KIRzl=o89EHD1
-!s100 `ih6LPVggg9=?mMFB1CP51
-R7
-32
-R8
-!i10b 1
-R9
-R10
-R11
-!i113 0
-R12
-R13
-Edecoder
-Z14 w1670325613
 R2
 R3
 R4
-Z15 8C:\Users\Sarhoz Mahmoud\Documents\GitHub\EPO3\EPO\Decoder of SOUND.vhd
-Z16 FC:\Users\Sarhoz Mahmoud\Documents\GitHub\EPO3\EPO\Decoder of SOUND.vhd
+32
+R9
+l19
+L16
+Vdm7FU3Ud@fIJod:DmKE3A2
+!s100 F^_WBWK3zOMRIC@Hg=2PI0
+R8
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Edecoder
+Z15 w1670598588
+R3
+R4
+R5
+Z16 8C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd
+Z17 FC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd
 l0
 L4
 VYBA?:bS4][n1_83^fei=b3
 !s100 T<=AzlBeYL6izEOYb]8672
-R7
+R8
 32
-Z17 !s110 1670325620
+R9
 !i10b 1
-Z18 !s108 1670325620.000000
-Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:\Users\Sarhoz Mahmoud\Documents\GitHub\EPO3\EPO\Decoder of SOUND.vhd|
-Z20 !s107 C:\Users\Sarhoz Mahmoud\Documents\GitHub\EPO3\EPO\Decoder of SOUND.vhd|
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd|
+Z19 !s107 C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd|
 !i113 0
-R12
 R13
+R14
 Abehaviour
-Z21 DEx4 work 7 decoder 0 22 YBA?:bS4][n1_83^fei=b3
-R2
+DEx4 work 7 decoder 0 22 YBA?:bS4][n1_83^fei=b3
 R3
+R4
+32
+R9
 l21
 L17
-VmMWImk:4cRXgLkIWFcHG42
-!s100 MnzfX_U;RMK9d]4GeN6cf2
-R7
-32
-R17
+VP_K]@S@49QdUzJe4G9`_l1
+!s100 CSZzW5fTSMAV5Q[[li:Ei2
+R8
 !i10b 1
+R10
 R18
 R19
-R20
 !i113 0
-R12
 R13
+R14
+Edecoder_circuit
+Z20 w1670598523
+R2
+R3
+R4
+R5
+Z21 8C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd
+Z22 FC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd
+l0
+L5
+VdNS3m?=DYO`R;d1[<OGck2
+!s100 3<nOJO32ESd1JViEa<@UH2
+R8
+32
+Z23 !s110 1670598612
+!i10b 1
+Z24 !s108 1670598612.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd|
+Z26 !s107 C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd|
+!i113 0
+R13
+R14
+Astructural
+R2
+R3
+R4
+DEx4 work 15 decoder_circuit 0 22 dNS3m?=DYO`R;d1[<OGck2
+32
+R23
+l40
+L14
+V@CmmFJa<EVM@`A3jTDMf`0
+!s100 Phg[8>D;6;GDk<m6[C3P=3
+R8
+!i10b 1
+R24
+R25
+R26
+!i113 0
+R13
+R14
+Edecoder_circuit_tb
+Z27 w1670598606
+R3
+R4
+R5
+Z28 8C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd
+Z29 FC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd
+l0
+L4
+VLH`64oJz:Q:d:@cAKUGBH3
+!s100 OGhXHKV>SN<zkB00iX7Z?3
+R8
+32
+R9
+!i10b 1
+R10
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd|
+Z31 !s107 C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd|
+!i113 0
+R13
+R14
+Astructural
+R3
+R4
+DEx4 work 18 decoder_circuit_tb 0 22 LH`64oJz:Q:d:@cAKUGBH3
+32
+R23
+l21
+L7
+VO[BE>egI>QB8G:0ehPY>61
+!s100 :Lm?TZ1Wl[EG0:0cE1D<h2
+R8
+!i10b 1
+R10
+R30
+R31
+!i113 0
+R13
+R14
