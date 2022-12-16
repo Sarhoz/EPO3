@@ -20,7 +20,7 @@ end component Decoder_circuit;
 
 begin 
 
-	lbl0: Decoder_circuit port map	(clk 			=> clk,
+	lbl5: Decoder_circuit port map	(clk 			=> clk,
 					reset			=> reset,
 					sig			=> sig,
 					sync			=> sync,

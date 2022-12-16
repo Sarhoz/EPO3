@@ -14,167 +14,177 @@ V4`:7`SJ;c7V;>U@i>4Y3M1
 04 7 9 work counter behaviour 1
 =1-00d8618931fb-639345ef-302-4f54
 o-quiet -auto_acc_if_foreign -work work
-tCvgOpt 0
+Z1 tCvgOpt 0
 n@_opt
-OL;O;10.6g;65
+Z2 OL;O;10.6g;65
+R0
+T_opt1
+!s110 1671142127
+VK21l9OPX=z4@SI4gh2o9Z0
+04 18 10 work decoder_circuit_tb structural 1
+=1-00d8618931fb-639b9aef-65-5134
+o-quiet -auto_acc_if_foreign -work work +acc
+R1
+n@_opt1
+R2
 R0
 Ecounter
-Z1 w1670598082
-Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
-Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
-Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
-Z5 dC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO
-Z6 8C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd
-Z7 FC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd
+Z3 w1670598082
+Z4 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 dC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO
+Z8 8C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd
+Z9 FC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd
 l0
 L5
 VDN[d;JSK2j:N:UBWlQ@hK3
 !s100 dKD<@XD0;66=e_CY^1mYh3
-Z8 OL;C;10.6g;65
+Z10 OL;C;10.6g;65
 32
-Z9 !s110 1670598611
+Z11 !s110 1670598611
 !i10b 1
-Z10 !s108 1670598611.000000
-Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd|
-Z12 !s107 C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd|
+Z12 !s108 1670598611.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd|
+Z14 !s107 C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Counter for fsm.vhd|
 !i113 0
-Z13 o-work work -2002 -explicit
-Z14 tExplicit 1 CvgOpt 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
 Abehaviour
 DEx4 work 7 counter 0 22 DN[d;JSK2j:N:UBWlQ@hK3
-R2
-R3
 R4
+R5
+R6
 32
-R9
+R11
 l19
 L16
 Vdm7FU3Ud@fIJod:DmKE3A2
 !s100 F^_WBWK3zOMRIC@Hg=2PI0
-R8
-!i10b 1
 R10
-R11
+!i10b 1
 R12
-!i113 0
 R13
 R14
+!i113 0
+R15
+R16
 Edecoder
-Z15 w1670598588
-R3
-R4
+Z17 w1670598588
 R5
-Z16 8C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd
-Z17 FC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd
+R6
+R7
+Z18 8C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd
+Z19 FC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd
 l0
 L4
 VYBA?:bS4][n1_83^fei=b3
 !s100 T<=AzlBeYL6izEOYb]8672
-R8
-32
-R9
-!i10b 1
 R10
-Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd|
-Z19 !s107 C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd|
+32
+R11
+!i10b 1
+R12
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd|
+Z21 !s107 C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder of SOUND.vhd|
 !i113 0
-R13
-R14
+R15
+R16
 Abehaviour
 DEx4 work 7 decoder 0 22 YBA?:bS4][n1_83^fei=b3
-R3
-R4
+R5
+R6
 32
-R9
+R11
 l21
 L17
 VP_K]@S@49QdUzJe4G9`_l1
 !s100 CSZzW5fTSMAV5Q[[li:Ei2
-R8
-!i10b 1
 R10
-R18
-R19
+!i10b 1
+R12
+R20
+R21
 !i113 0
-R13
-R14
+R15
+R16
 Edecoder_circuit
-Z20 w1670598523
-R2
-R3
+Z22 w1670598523
 R4
 R5
-Z21 8C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd
-Z22 FC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd
+R6
+R7
+Z23 8C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd
+Z24 FC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd
 l0
 L5
 VdNS3m?=DYO`R;d1[<OGck2
 !s100 3<nOJO32ESd1JViEa<@UH2
-R8
+R10
 32
-Z23 !s110 1670598612
+Z25 !s110 1670598612
 !i10b 1
-Z24 !s108 1670598612.000000
-Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd|
-Z26 !s107 C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd|
+Z26 !s108 1670598612.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd|
+Z28 !s107 C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder_circuit.vhd|
 !i113 0
-R13
-R14
+R15
+R16
 Astructural
-R2
-R3
 R4
+R5
+R6
 DEx4 work 15 decoder_circuit 0 22 dNS3m?=DYO`R;d1[<OGck2
 32
-R23
+R25
 l40
 L14
 V@CmmFJa<EVM@`A3jTDMf`0
 !s100 Phg[8>D;6;GDk<m6[C3P=3
-R8
+R10
 !i10b 1
-R24
-R25
 R26
+R27
+R28
 !i113 0
-R13
-R14
+R15
+R16
 Edecoder_circuit_tb
-Z27 w1670598606
-R3
-R4
+Z29 w1671143004
 R5
-Z28 8C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd
-Z29 FC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd
+R6
+R7
+Z30 8C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd
+Z31 FC:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd
 l0
 L4
 VLH`64oJz:Q:d:@cAKUGBH3
 !s100 OGhXHKV>SN<zkB00iX7Z?3
-R8
-32
-R9
-!i10b 1
 R10
-Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd|
-Z31 !s107 C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd|
+32
+Z32 !s110 1671143052
+!i10b 1
+Z33 !s108 1671143052.000000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd|
+Z35 !s107 C:/Users/Sarhoz Mahmoud/Documents/GitHub/EPO3/EPO/Decoder+Counter Testbench.vhd|
 !i113 0
-R13
-R14
+R15
+R16
 Astructural
-R3
-R4
+R5
+R6
 DEx4 work 18 decoder_circuit_tb 0 22 LH`64oJz:Q:d:@cAKUGBH3
 32
-R23
+R32
 l21
 L7
-VO[BE>egI>QB8G:0ehPY>61
-!s100 :Lm?TZ1Wl[EG0:0cE1D<h2
-R8
-!i10b 1
+VVW@Q9NJF;][0f<m4S2UoB2
+!s100 bWkez4I1aI1PSAEGn>hkO3
 R10
-R30
-R31
+!i10b 1
+R33
+R34
+R35
 !i113 0
-R13
-R14
+R15
+R16

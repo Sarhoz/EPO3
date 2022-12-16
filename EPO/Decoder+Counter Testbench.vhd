@@ -28,7 +28,7 @@ begin
 				);
 
 	clk			<=	'0' after 0 ns,
-					'1' after 40 ns when clk /= '1' else '0' after 40 ns;
+					'1' after 20 ns when clk /= '1' else '0' after 20 ns;
 
 	reset			<=	'1' after 0 ns,
 					'0' after 5 ms;
